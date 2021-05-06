@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/hrithik2000](github.com/hrithik2000)
 
-- 💬 Ask me about **React,Java,Python,CyberSecurity,Networking,Ethical Hacking,Penetration Tester**
+- 💬 Ask me about **React,Java,Python,CyberSecurity,Networking,Ethical Hacking,Penetration Testing**
 
 - 📫 How to reach me **rhrithik1@gmail.com**
 
